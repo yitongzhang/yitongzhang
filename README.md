@@ -4,7 +4,7 @@ I'm Yitong, a designer in San Francisco. I grew up in Montreal, Canada – a ver
 
 I currently work at Coinbase. Since I've been here for a while, I have had the priviledge to design a bunch of the consumer app, as well as the design system.
 
-In my spare time, I like to make things like this Figma plugin called Autoflow, or this marketing page pattern library called Goodweb.design, or this vegetable seasonality website. The latter two could really use a bit of maintenance. Oh and I also tend to a beautiful vegetable garden.
+In my spare time, I like to work on small projects , make pottery, and tend to my beautiful vegetable garden.
 
 
 <!--
